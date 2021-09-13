@@ -32,4 +32,5 @@ public class UUIDConverter implements org.eclipse.persistence.mappings.converter
         field.setTypeName("java.util.UUID");
         field.setColumnDefinition("UUID");
     }
+    
 }
